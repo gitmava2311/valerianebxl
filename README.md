@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valerianebxl
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning NLP
+- 🌱 But, I’m currently learning NLP
 - 💞️ I’m looking to collaborate on my codes
 - 📫 Feel free to leave comments !
 
